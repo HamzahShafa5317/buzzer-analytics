@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secret dan credential
+.env
+.streamlit/secrets.toml
+
+# Hasil sementara
+outputs/
+database/
+*.log
+
+# Dataset penelitian lokal
+Public_Opinion_Dataset_MBG_Rapi.xlsx
+dataset_MBG_1000_labeled_FINAL (VALIDASI).xlsx

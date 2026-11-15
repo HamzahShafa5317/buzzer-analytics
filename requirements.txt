@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+openpyxl
+torch
+transformers<5
+sentence-transformers
+scikit-learn
+scipy
+plotly
+networkx
+matplotlib
+safetensors
+sentencepiece

@@ -1,0 +1,14 @@
+{
+    "model_base": "indobenchmark/indobert-base-p1",
+    "checkpoint": "checkpoint-470",
+    "best_validation_macro_f1": 0.8255792738551359,
+    "num_labels": 3,
+    "label2id": {
+        "negatif": 0,
+        "netral": 1,
+        "positif": 2
+    },
+    "training_max_length": 64,
+    "inference_max_length": 128,
+    "prediction_batch_size": 16
+}
