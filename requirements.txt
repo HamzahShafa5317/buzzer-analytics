@@ -4,7 +4,7 @@ numpy
 openpyxl
 torch
 transformers<5
-sentence-transformers
+sentence-transformers==5.1.2
 scikit-learn
 scipy
 plotly
